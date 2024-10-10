@@ -1,1 +1,1 @@
-export const  trigerWords :string[] = ['Мари', 'Маринет']
+export const  trigerWords :string[] = ['мари', 'маринет']
