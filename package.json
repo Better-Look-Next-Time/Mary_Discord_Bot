@@ -6,10 +6,10 @@
     "@types/bun": "latest"
   },
   "peerDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "^5.6.3"
   },
   "dependencies": {
-    "@mary/core": "^0.0.2",
+    "@mary/core": "^0.0.3",
     "discord.js": "^14.16.3"
   }
 }
