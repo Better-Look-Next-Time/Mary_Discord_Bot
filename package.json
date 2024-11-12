@@ -9,7 +9,7 @@
     "typescript": "^5.6.3"
   },
   "dependencies": {
-    "@mary/core": "^0.0.4",
+    "@mary/core": "^0.0.5",
     "discord.js": "^14.16.3"
   }
 }
